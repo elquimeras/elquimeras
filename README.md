@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hola, Soy el Daz 🤘
+
+![https://github.com/elquimeras](./image/banner-daniel-alvarez.png)
 
 <!--
 **elquimeras/elquimeras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

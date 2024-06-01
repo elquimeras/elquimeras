@@ -8,7 +8,7 @@
 🎓 &nbsp; Ingeniero en informática \
 🎸 &nbsp; En mis momentos libres toco la guitarra. \
 🎮 &nbsp; Me gustan los videojuegos, más si se trata de la F1. \
-🐶 &nbsp; PetLover forever. \
+🐶 &nbsp; PetLover forever.
 
 <img alt="Coding" style="width: 250px; height: 200px; object-fit: cover;" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTRwdjcwYTdjeW82OWVrOTcxNmlwZ2dwYnU4bmRmbndtb2g4Z2Y5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" align="right"/>
 

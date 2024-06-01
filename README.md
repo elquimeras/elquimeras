@@ -59,9 +59,9 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/danielalvarezc/"><img src="https://img.shields.io/badge/-Daniel Alvarez-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:alvarez.c.daniel@gmail.com"><img src="https://img.shields.io/badge/-daniel.c.daniel@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://github.com/elquimeras"><img src="https://img.shields.io/badge/-elquimeras-%23121011.svg?style=flat&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/danielalvarezc/"><img src="https://img.shields.io/badge/daniel_alvarez-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:alvarez.c.daniel@gmail.com"><img src="https://img.shields.io/badge/daniel_alvarez-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/elquimeras"><img src="https://img.shields.io/badge/daniel_alvarez-00008B?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://stackoverflow.com/users/9710681/deivy-hern%c3%a1ndez"><img src="https://img.shields.io/badge/daniel_alvarez-orange?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
 
 </p>

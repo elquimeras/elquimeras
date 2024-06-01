@@ -24,7 +24,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Python](https://img.shields.io/badge/python-%00008B.svg?style=for-the-badge&logo=python&logoColor=yellow)
+![Python](https://img.shields.io/badge/python-%23FFD43B.svg?style=for-the-badge&logo=python&logoColor=yellow)
 
 <br>
 

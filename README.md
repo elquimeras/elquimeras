@@ -46,9 +46,8 @@
 <p align="center">
 <a href="https://github.com/elquimeras">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=elquimeras&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <! --- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=elquimeras&layout=compact&langs_count=8&theme=algolia"/>
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=elquimeras&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=elquimeras&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180em" alt="languages graph"  />
 </p>
 
 <br/><br/>

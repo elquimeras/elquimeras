@@ -28,6 +28,12 @@
 ![TypeScript](https://img.shields.io/badge/typescript-0078d7.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/npm-FF0000?style=for-the-badge&logo=npm&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Static Badge](https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=white)
+![Static Badge](https://img.shields.io/badge/angular-DC143C?style=for-the-badge&logo=angular&logoColor=white)
+![Static Badge](https://img.shields.io/badge/vue-3CB371?style=for-the-badge&logo=vue.js&logoColor=white)
+![Static Badge](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Static Badge](https://img.shields.io/badge/gatsby-purple?style=for-the-badge&logo=gatsby&logoColor=white)
+![Static Badge](https://img.shields.io/badge/nuxt.js-00FF00?style=for-the-badge&logo=nuxt.js&logoColor=white)
 
 <br>
 

@@ -28,14 +28,15 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flutter](https://img.shields.io/badge/Flutter-%23323330.svg?style=for-the-badge&logo=flutter&logoColor=00BFFF)
 ![TypeScript](https://img.shields.io/badge/typescript-0078d7.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Static Badge](https://img.shields.io/badge/npm-FF0000?style=for-the-badge&logo=npm&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Static Badge](https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=white)
-![Static Badge](https://img.shields.io/badge/angular-DC143C?style=for-the-badge&logo=angular&logoColor=white)
-![Static Badge](https://img.shields.io/badge/vue-3CB371?style=for-the-badge&logo=vue.js&logoColor=white)
-![Static Badge](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Static Badge](https://img.shields.io/badge/gatsby-purple?style=for-the-badge&logo=gatsby&logoColor=white)
-![Static Badge](https://img.shields.io/badge/nuxt.js-00FF00?style=for-the-badge&logo=nuxt.js&logoColor=white)
+![npm](https://img.shields.io/badge/npm-FF0000?style=for-the-badge&logo=npm&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Mysql](https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-DC143C?style=for-the-badge&logo=angular&logoColor=white)
+![Vue](https://img.shields.io/badge/vue-3CB371?style=for-the-badge&logo=vue.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Gatsby](https://img.shields.io/badge/gatsby-purple?style=for-the-badge&logo=gatsby&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/nuxt.js-00FF00?style=for-the-badge&logo=nuxt.js&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=FF9900)
 
 <br>
 

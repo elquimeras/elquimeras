@@ -13,8 +13,6 @@
 
 <img alt="Coding" style="width: 250px; height: 200px; object-fit: cover;" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTRwdjcwYTdjeW82OWVrOTcxNmlwZ2dwYnU4bmRmbndtb2g4Z2Y5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" align="right"/>
 
-<br/><br/>
-
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)

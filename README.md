@@ -1,4 +1,4 @@
-# Hola, Soy el Daz 🤘
+<h1 align="center">Hola, Soy el Daz 🤘</h1>
 
 ![https://github.com/elquimeras](./image/banner-daniel-alvarez.png)
 <br/><br/>

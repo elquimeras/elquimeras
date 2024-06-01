@@ -1,6 +1,7 @@
 # Hola, Soy el Daz 🤘
 
 ![https://github.com/elquimeras](./image/banner-daniel-alvarez.png)
+<br/><br/>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -11,6 +12,8 @@
 🐶 &nbsp; PetLover forever.
 
 <img alt="Coding" style="width: 250px; height: 200px; object-fit: cover;" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTRwdjcwYTdjeW82OWVrOTcxNmlwZ2dwYnU4bmRmbndtb2g4Z2Y5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" align="right"/>
+
+<br/><br/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -38,7 +41,7 @@
 ![Nuxt.js](https://img.shields.io/badge/nuxt.js-00FF00?style=for-the-badge&logo=nuxt.js&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=FF9900)
 
-<br>
+<br/><br/>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -47,7 +50,10 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=elquimeras&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <! --- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=elquimeras&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=elquimeras&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180em" alt="languages graph"  />
 </p>
+
+<br/><br/>
 
 ### 🤝🏻 &nbsp; Encuentrame:
 

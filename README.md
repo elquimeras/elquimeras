@@ -6,7 +6,9 @@
 
 🚀 &nbsp; Apasionado por la tecnología \
 🎓 &nbsp; Ingeniero en informática \
-🐶 &nbsp; PetLover forever.\
+🎸 &nbsp; En mis momentos libres toco la guitarra
+🎮 &nbsp; Me gustan los videojuegos, más si se trata de la F1
+🐶 &nbsp; PetLover forever. \
 
 <img alt="Coding" style="width: 250px; height: 200px; object-fit: cover;" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTRwdjcwYTdjeW82OWVrOTcxNmlwZ2dwYnU4bmRmbndtb2g4Z2Y5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" align="right"/>
 
@@ -44,4 +46,16 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=elquimeras&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <! --- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=elquimeras&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+</p>
+
+### 🤝🏻 &nbsp; Encuentrame:
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/danielalvarezc/"><img src="https://img.shields.io/badge/-Daniel Alvarez-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+
+<a href="mailto:alvarez.c.daniel@gmail.com"><img src="https://img.shields.io/badge/-daniel.c.daniel@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+
+<a href="https://github.com/elquimeras"><img src="https://img.shields.io/badge/-elquimeras-%23121011.svg?style=flat&logo=github&logoColor=white"/></a>
+
 </p>

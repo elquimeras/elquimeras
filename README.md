@@ -54,6 +54,8 @@
 
 ## Mira como una serpiente se come mis contribuciones 🐍
 
+![snake gif](https://raw.githubusercontent.com/elquimeras/elquimeras/dc7ebbaecefdf6400f392d68b4c28a24745f06ad/snake.svg)
+
 <br/><br/>
 
 ### 🤝🏻 &nbsp; Encuentrame:
@@ -63,6 +65,6 @@
 <a href="https://www.linkedin.com/in/danielalvarezc/"><img src="https://img.shields.io/badge/daniel_alvarez-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:alvarez.c.daniel@gmail.com"><img src="https://img.shields.io/badge/alvarez.c.daniel@gmail.com-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/elquimeras"><img src="https://img.shields.io/badge/elquimeras-00008B?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://stackoverflow.com/users/9710681/deivy-hern%c3%a1ndez"><img src="https://img.shields.io/badge/daniel_alvarez-orange?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
+<a href="https://stackoverflow.com/users/5116008/blackslash"><img src="https://img.shields.io/badge/daniel_alvarez-orange?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
 
 </p>

@@ -24,7 +24,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Flutter](https://img.shields.io/badge/Flutter-D3D3D3.svg?style=for-the-badge&logo=flutter&logoColor=00BFFF)
+![Flutter](https://img.shields.io/badge/Flutter-D3D3D3-white?style=for-the-badge&logo=flutter&logoColor=00BFFF)
 
 <br>
 

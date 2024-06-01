@@ -26,6 +26,8 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flutter](https://img.shields.io/badge/Flutter-%23323330.svg?style=for-the-badge&logo=flutter&logoColor=00BFFF)
 ![TypeScript](https://img.shields.io/badge/typescript-0078d7.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Static Badge](https://img.shields.io/badge/npm-FF0000?style=for-the-badge&logo=npm&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 <br>
 

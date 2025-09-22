@@ -37,7 +37,9 @@
 ![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Gatsby](https://img.shields.io/badge/gatsby-purple?style=for-the-badge&logo=gatsby&logoColor=white)
 ![Nuxt.js](https://img.shields.io/badge/nuxt.js-00FF00?style=for-the-badge&logo=nuxt.js&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=FF9900)
+![AWS](https://img.shields.io/badge/-AWS-000?style=for-the-badge&logo=Amazon-AWS&logoColor=FF9900)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 
 <br/><br/>
 

@@ -54,8 +54,6 @@
 
 <br/><br/>
 
-## Mira como una serpiente se come mis contribuciones 🐍
-
 ![snake gif](https://raw.githubusercontent.com/elquimeras/elquimeras/dc7ebbaecefdf6400f392d68b4c28a24745f06ad/snake.svg)
 
 <br/><br/>

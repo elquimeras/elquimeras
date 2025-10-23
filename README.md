@@ -41,7 +41,7 @@
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 
-<br/><br/>
+<br/>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -52,9 +52,16 @@
 </a>
 </p>
 
-<br/><br/>
+<br/>
 
-![snake gif](https://raw.githubusercontent.com/elquimeras/elquimeras/dc7ebbaecefdf6400f392d68b4c28a24745f06ad/snake.svg)
+### 🏆 &nbsp;GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=elquimeras&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/elquimeras/elquimeras/dc7ebbaecefdf6400f392d68b4c28a24745f06ad/snake.svg">
+</p>
+
+<!-- ![snake gif](https://raw.githubusercontent.com/elquimeras/elquimeras/dc7ebbaecefdf6400f392d68b4c28a24745f06ad/snake.svg) -->
 
 <br/><br/>
 

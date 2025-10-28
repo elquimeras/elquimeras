@@ -75,3 +75,7 @@
 <a href="https://stackoverflow.com/users/5116008/blackslash"><img src="https://img.shields.io/badge/daniel_alvarez-orange?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
 
 </p>
+
+<br/>
+
+[![An image of @elquimeras's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/elquimeras)](https://holopin.io/@elquimeras)
